@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply overflow-hidden touch-none select-none;
+    margin: 0;
+    -webkit-user-select: none;
+    /* font-family is handled by tailwind.config.js theme */
+  }
+}
+
+/* Custom Utilities */
+.bg-dot-pattern {
+  background-image: radial-gradient(#000000 1.5px, transparent 1.5px);
+  background-size: 32px 32px;
+  background-position: 0 0;
+  opacity: 0.08;
+  pointer-events: none;
+}
