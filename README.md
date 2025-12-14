@@ -13,6 +13,16 @@ Players compete in a fast-paced survival tapping game:
 
 Victory depends on luck, survival, and strategy.
 
+## 🖼️ Screenshots
+
+<img width="385" height="840" alt="image" src="https://github.com/user-attachments/assets/265ddd8f-d140-45c1-b963-1d04e538d0bc" />
+
+<img width="385" height="840" alt="image" src="https://github.com/user-attachments/assets/c71f722a-39f4-4d88-bcda-3bc619b0eb6f" />
+
+<img width="385" height="840" alt="image" src="https://github.com/user-attachments/assets/f6530ca5-bd81-4e77-ab81-91537f9d8969" />
+
+<img width="384" height="840" alt="image" src="https://github.com/user-attachments/assets/a2b19d0b-e5eb-448c-b220-b337566088e9" />
+
 ## 🎮 How to Play
 
 1.  **Join the Lobby:** Each player touches (or clicks) the screen to spawn their avatar. Hold your position!
